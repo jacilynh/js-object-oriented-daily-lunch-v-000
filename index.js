@@ -1,9 +1,3 @@
-let store = { neighborhoods: [], meals: [], customers: [], deliveries: [] };
-let neighborhoodId = 0;
-let mealId = 0;
-let customerId = 0;
-let deliveryId = 0;
-
 // * `deliveries()` - returns all deliveries in  neighborhood
 // * `customers()` - returns all customers in neighborhood
 // * `meals()` - returns a **unique** list of meals that have been ordered in a particular neighborhood (you might want to do this one last)
